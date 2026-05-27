@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Seckin, a linguist and a programmer by trade, nice seeing you here. 
+
+I do programming as a hobby, I like creating and designing applications and sharing them.
+
+You can find some of my projects published on [Codeberg](https://codeberg.org/seckinu).
+I'm currently working on [Paddler](https://codeberg.org/seckinu/paddler), a Phonetic Pattern Parser.
+
 <!--
 **seckinu/seckinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
